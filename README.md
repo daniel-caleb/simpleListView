@@ -1,8 +1,5 @@
 # simpleListView
 
-
-# simple listView
-
       ~~A SIMPLE LISTVIEW~~
       
  -Perhaps you are wondering what is a listview?-
